@@ -5,7 +5,7 @@
 "main": "./lib/index.js",
 "repository": {
 "type": "git",
-"url": "https://github.com/codeforgeek/nodecalc"
+"url": "https://github.com/ChachaChaudhary/getNearBy"
 },
 "keywords": [
 "sweet-lstat"
@@ -22,9 +22,9 @@
 "node": "*"
 },
 "bugs": {
-"url": "https://github.com/codeforgeek/nodecalc/issues"
+"url": "https://github.com/ChachaChaudhary/getNearBy/issues"
 },
-"homepage": "https://github.com/codeforgeek/nodecalc",
+"homepage": "https://github.com/ChachaChaudhary/getNearBy",
 "_id": "nearby@0.0.1",
 "scripts": {},
 "_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
