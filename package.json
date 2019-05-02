@@ -2,7 +2,7 @@
 "name": "nearby",
 "version": "0.0.1",
 "description": "This package will return locations located within the given radius in km from a given location",
-"main": "./lib/index.js",
+"main": "./index.js",
 "repository": {
 "type": "git",
 "url": "https://github.com/ChachaChaudhary/getNearBy"
