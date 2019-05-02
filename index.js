@@ -22,3 +22,4 @@ var nearByCities=  data.filter((location)=>{
   });
   return nearByCities;
   }
+  module.exports = getNearBy;
