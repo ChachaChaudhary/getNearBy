@@ -1,0 +1,32 @@
+{
+"name": "nearby",
+"version": "0.0.1",
+"description": "This package will return locations located within the given radius in km from a given location",
+"main": "./lib/index.js",
+"repository": {
+"type": "git",
+"url": "https://github.com/codeforgeek/nodecalc"
+},
+"keywords": [
+"sweet-lstat"
+],
+"author": {
+"name": "Ankit Chaudhary"
+},
+"readme": "# Get nearBy locations from a given location(for learning purpose)nn## Installnn npm install nearbynnn## APInn### -getNearBy(a,b,p,o) n where, n a=list of locations,nb=given loction,np=distance,no=options",
+"readmeFilename": "README.md",
+"dependencies": {},
+"devDependencies": {},
+"optionalDependencies": {},
+"engines": {
+"node": "*"
+},
+"bugs": {
+"url": "https://github.com/codeforgeek/nodecalc/issues"
+},
+"homepage": "https://github.com/codeforgeek/nodecalc",
+"_id": "nearby@0.0.1",
+"scripts": {},
+"_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
+"_from": "nearby@"
+}
